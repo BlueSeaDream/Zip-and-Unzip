@@ -1,3 +1,4 @@
-# Zip-and-Unzip
+### Extract Multiple Files using 7-Zip
 
-How to use zip software
+7z x "input_path_of_1st_zip_file" -tzip.split -o"output_directory"
+Note: -tzip mean that the compressed file is "zip" format.
