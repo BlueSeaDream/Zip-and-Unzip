@@ -2,4 +2,7 @@
 
 7z x "input_path_of_1st_zip_file" -tzip.split -o"output_directory"
 
-Note: -tzip mean that the compressed file is "zip" format.
+Note: 
+
+- tzip mean that the compressed file is "zip" format.
+- no space between -o and "output_directory"
